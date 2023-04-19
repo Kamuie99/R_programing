@@ -1,0 +1,6 @@
+exam <- read.csv("csv_exam.csv")
+head(exam)
+head(exam, 10)
+tail(exam)
+View(exam)
+dim(exam)

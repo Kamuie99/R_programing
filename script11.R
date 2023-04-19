@@ -1,0 +1,6 @@
+install.packages("ggplot2")
+mpg <- as.data.frame(ggplot2::mpg)
+head(mpg)
+tail(mpg)
+dim(mpg)
+summary(mpg)
